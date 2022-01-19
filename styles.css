@@ -96,6 +96,15 @@ html {
   color: white;
 }
 
+.about-section h1 {
+  font-size: xx-large;
+  color: cornflowerblue;
+}
+
+.about-section p {
+  font-size: large;
+}
+
 .container {
   padding: 0 16px;
 }
