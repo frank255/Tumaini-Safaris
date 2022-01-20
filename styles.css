@@ -99,8 +99,14 @@ html {
 .about-section h1 {
   font-size: xx-large;
   color: cornflowerblue;
+  justify-content: center;
 }
 
+.container-fluid h1 {
+  font-size: xx-large;
+  color: cornflowerblue;
+  margin: 20px;
+}
 .about-section p {
   font-size: large;
 }
